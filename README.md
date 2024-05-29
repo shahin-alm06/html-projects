@@ -1,2 +1,4 @@
-# html-projects
-Su Web Programming Lab Sessional Projects
+# First-demo
+This Git Repository for web programming sessional class projects.
+<br>
+Author - Shahin Alam
